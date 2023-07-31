@@ -1,0 +1,13 @@
+E:\College\Class Semester 2\OOP\E_UAS2_160420014_Michael\E_UAS2_160420014_Michael\bin\Debug\E_UAS2_160420014_Michael.exe.config
+E:\College\Class Semester 2\OOP\E_UAS2_160420014_Michael\E_UAS2_160420014_Michael\bin\Debug\E_UAS2_160420014_Michael.exe
+E:\College\Class Semester 2\OOP\E_UAS2_160420014_Michael\E_UAS2_160420014_Michael\bin\Debug\E_UAS2_160420014_Michael.pdb
+E:\College\Class Semester 2\OOP\E_UAS2_160420014_Michael\E_UAS2_160420014_Michael\obj\Debug\E_UAS2_160420014_Michael.csprojAssemblyReference.cache
+E:\College\Class Semester 2\OOP\E_UAS2_160420014_Michael\E_UAS2_160420014_Michael\obj\Debug\E_UAS2_160420014_Michael.FormMenu.resources
+E:\College\Class Semester 2\OOP\E_UAS2_160420014_Michael\E_UAS2_160420014_Michael\obj\Debug\E_UAS2_160420014_Michael.Properties.Resources.resources
+E:\College\Class Semester 2\OOP\E_UAS2_160420014_Michael\E_UAS2_160420014_Michael\obj\Debug\E_UAS2_160420014_Michael.csproj.GenerateResource.cache
+E:\College\Class Semester 2\OOP\E_UAS2_160420014_Michael\E_UAS2_160420014_Michael\obj\Debug\E_UAS2_160420014_Michael.csproj.CoreCompileInputs.cache
+E:\College\Class Semester 2\OOP\E_UAS2_160420014_Michael\E_UAS2_160420014_Michael\obj\Debug\E_UAS2_160420014_Michael.exe
+E:\College\Class Semester 2\OOP\E_UAS2_160420014_Michael\E_UAS2_160420014_Michael\obj\Debug\E_UAS2_160420014_Michael.pdb
+E:\College\Class Semester 2\OOP\E_UAS2_160420014_Michael\E_UAS2_160420014_Michael\obj\Debug\E_UAS2_160420014_Michael.FormCreatePendanaanPribadi.resources
+E:\College\Class Semester 2\OOP\E_UAS2_160420014_Michael\E_UAS2_160420014_Michael\obj\Debug\E_UAS2_160420014_Michael.FormEditPendanaanPribadi.resources
+E:\College\Class Semester 2\OOP\E_UAS2_160420014_Michael\E_UAS2_160420014_Michael\obj\Debug\E_UAS2_160420014_Michael.FormDisplayData.resources
